@@ -1,0 +1,14 @@
+## 18 juillet 2017
+
+### Nouvelles fonctionnalités
+
+#### Gestion des pays éligibles par annuaire
+Les points de ventes ne sont envoyés à un annuaire que s'ils sont dans un des pays éligibles pour cet annuaire. Par exemple, pour un client international, seuls les points de vente français seront envoyés à Pages Jaunes.
+
+### Corrections d'anomalies et ajustements mineurs
+
+* Nombre d'images par défaut remonté à 10
+* Correction de l'affichage des messages d'erreur de la multi-diffusion
+* Amélioration de l'UI de la popin de match manuel (multi-diffusion)
+* Masquage des annuaires "techniques" qui prêtaient à confusion sur la page point de vente
+* Corrections d'erreurs dans la documentation de l'API
