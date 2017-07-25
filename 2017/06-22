@@ -1,0 +1,41 @@
+# 22 juin 2017
+
+## Nouvelles fonctionnalités
+
+### Destinataires des formulaires de contact
+Nouveaux paramètres disponibles pour gérer toujours plus de cas clients !
+
+* Les administrateurs peuvent désormais recevoir les notifications, plus besoin de créer de faux comptes!
+* Possibilité de désactiver les notifications et l'accès aux leads pour les gestionnaires de point de vente : l'administrateur peut gérer les leads seuls.
+Ces paramétres sont disponibles pour chaque formulaire.
+
+### Afficher plus de modifications d’un point de vente
+
+Sur la page Point de vente de BRIDGE, il est possible de charger tout l'historique des modifications.
+
+### Qualité de la géolocalisation pour chaque point de vente
+
+La précision de la géolocalisation est maintenant disponible pour chaque point de vente.
+Un reporting et un outil de correction seront mis en place ultérieurement.
+
+## Corrections d'anomalies et ajustements mineurs
+
+* Suppression des gammes de produits ou de service
+* Export des points de vente : le nom du fichier est maintenant *export-nomclient-YYYY-MM-DD-HH-MM.csv*
+* Gestion du nom public de la marque dans le BO, lors de l'activation de la multidiffusion
+* Conservation des filtres après une validation manuelle (module multidiffusion)
+* Modification la configuration d'un annuaire désormais possible
+
+## Nouvelles fonctionnalités Starter Kit 
+
+!!! warning
+    L’intégration de ces nouveautés pour les clients existants est soumise à une mise à jour du Front Office
+
+### Page point de vente inactif
+Un point de vente inactif reste en ligne (pour profiter du SEO existant), mais indique à l'internaute les points de vente situés à proximité.
+
+### Amélioration du SEO des images
+Une balise `alt` pertinente, ça mange pas de pain :)
+
+### Amélioration des performances 
+Scores GTmetrix améliorés (assets dans CDN, expires headers)
