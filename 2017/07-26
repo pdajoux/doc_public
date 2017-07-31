@@ -1,0 +1,35 @@
+*See below for english version.*
+
+# 26 juillet 2017
+
+## Nouvelles fonctionnalités
+
+### Ouvertures 24/24 et fermeture après minuit
+Tous les types d'horaires sont désormais possibles, même pour nos clients les plus nocturnes!
+
+### Listes de marques et de certifications
+Les marques vendues et les certifications obtenues par les points sont administrables comme les produits et services et diffusées vers les annuaires.
+
+## Corrections d'anomalies et ajustements mineurs
+
+* Script manuel de recalcul des coordonnées de tous les points de vente d'un client
+* Correction du filtre par *location type* dans le back-office
+* Corrections diverses de la documentation API
+* Système de cache pour certaines requêtes gMaps, pour éviter des factures inutiles
+
+# Englis version - July 26th 2017
+
+## New features
+
+### Opening 24/24 and closing after midnight
+All kind of opening hours are now possible.
+
+### Listes de marques et de certifications
+Brands and certifications available in-store are now manageable as product / services lists, and are  pushed to online listings.
+
+## Bug fixs ane small improvements
+
+* Manual script to force recalculation of all location coordinates for a specific client
+* Fix of *location type* filter in the back-office
+* Various fixes into API documentation
+* Caching system for some gMaps requests
